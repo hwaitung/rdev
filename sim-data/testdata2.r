@@ -1,3 +1,4 @@
+# function to generate 2 level data
 testdata2 = function(n1,n2) {
     subjA=c()
     subjB=c()
